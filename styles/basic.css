@@ -23,6 +23,14 @@ h1,p{
     margin: 0;
 }
 
+.divider {
+    width: min(420px, 100%);
+    height: 1px;
+    background-color: var(--color-black);
+    border: none;
+    margin: 0 auto;
+}
+
 .container{
     margin: 0 auto;
     max-width: 970px;
